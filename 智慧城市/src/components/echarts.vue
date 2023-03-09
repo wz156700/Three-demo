@@ -1,22 +1,22 @@
 <template>
   <div>
   <div
-    style="position: absolute;left:10px;top:240px;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 20px 10px;z-index:10;">
+    style="position: absolute;left:5%;top:10%;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 20px 10px;z-index:10;">
     <div id="echarts1" style="width: 360px;height: 240px;"></div>
   </div>
 
   <div
-    style="position: absolute;left:10px;top:600px;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 0px 10px;z-index:10;">
+    style="position: absolute;left:5%;top:45%;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 0px 10px;z-index:10;">
     <div id="echarts2" style="width: 360px;height: 360px;"></div>
   </div>
 
   <div
-    style="position: absolute;left:1530px;top:240px;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 20px 10px;z-index:10;">
+    style="position: absolute;left:75%;top:10%;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 20px 10px;z-index:10;">
     <div id="echarts3" style="width: 360px;height: 240px;"></div>
   </div>
 
   <div
-    style="position: absolute;left:1530px;top:600px;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 0px 10px;z-index:10;">
+    style="position: absolute;left:75%;top:45%;background:rgba(0,0,0,0.25);border-radius: 10px;padding: 0px 10px;z-index:10;">
     <div id="echarts4" style="width: 360px;height: 360px;"></div>
   </div>
 

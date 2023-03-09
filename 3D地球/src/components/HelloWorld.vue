@@ -38,15 +38,15 @@ export default {
   },
   methods: {
     // ScreenClick: function () {
-      // console.log(renderer.domElement.RequestFullScreen);
-      // renderer.domElement.requestFullScreen();
-      // if (this.ScreenBoool) {
-      //   this.ScreenBoool = false;
-      //   window.requestFullScreen();
-      // } else {
-      //   this.ScreenBoool = true;
-      //   window.exitFullscreen();
-      // }
+    //   console.log(renderer.domElement.RequestFullScreen);
+    //   renderer.domElement.requestFullScreen();
+    //   if (this.ScreenBoool) {
+    //     this.ScreenBoool = false;
+    //     window.requestFullScreen();
+    //   } else {
+    //     this.ScreenBoool = true;
+    //     window.exitFullscreen();
+    //   }
     // },
   },
   mounted: function () {

@@ -2,8 +2,8 @@
   <div style="">
     <div style="
         position: absolute;
-        left: 640px;
-        top: 940px;
+        left: 35%;
+        top: 80%;
         font-size: 16px;
         color: #33bbbb;
         padding: 10px 20px;
@@ -21,8 +21,8 @@
 
         <div style="
         position: absolute;
-        left: 1060px;
-        top: 940px;
+        left: 55%;
+        top: 80%;
         font-size: 16px;
         color: #33bbbb;
         padding: 10px 20px;
@@ -41,8 +41,8 @@
 
     <div style="
         position: absolute;
-        left: 1490px;
-        top: 90px;
+        left: 75%;
+        top: 10%;
         background: rgba(0, 0, 0, 0.06);
         border-radius: 10px;
         padding: 20px 10px;
@@ -54,8 +54,8 @@
 
     <div style="
         position: absolute;
-        left: 1490px;
-        top: 395px;
+        left: 75%;
+        top: 35%;
         background: rgba(0, 0, 0, 0.06);
         border-radius: 10px;
         padding: 0px 10px;
@@ -67,8 +67,8 @@
 
     <div style="
         position: absolute;
-        left: 1490px;
-        top: 780px;
+        left: 75%;
+        top: 70%;
         background: rgba(0, 0, 0, 0.06);
         border-radius: 10px;
         padding: 10px 20px;
@@ -82,8 +82,8 @@
 
     <div style="
         position: absolute;
-        left: 10px;
-        top: 90px;
+        left: 0;
+        top: 10%;
         background: rgba(0, 0, 0, 0.06);
         border-radius: 10px;
         padding: 20px 10px;
@@ -94,8 +94,8 @@
 
     <div style="
         position: absolute;
-        left: 10px;
-        top: 395px;
+        left: 0;
+        top: 35%;
         background: rgba(0, 0, 0, 0.06);
         border-radius: 10px;
         padding: 0px 10px;
@@ -106,8 +106,8 @@
 
     <div style="
         position: absolute;
-        left: 10px;
-        top: 780px;
+        left: 0;
+        top: 70%;
         background: rgba(0, 0, 0, 0.06);
         border-radius: 10px;
         padding: 10px 20px;
